@@ -1,0 +1,14 @@
+body
+{
+    background-color: lavenderblush;
+    text-align: center;
+ 
+       font-size: 20px;
+        width: 100%;
+        background:lavenderblush;
+        display: grid;
+        grid-template-areas:
+        "header"
+        "advert content"
+        "footer footer";
+      }
