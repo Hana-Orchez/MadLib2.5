@@ -1,0 +1,21 @@
+body
+{
+ 
+text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+       font-size: 20px;
+        width: 100%;
+        background: lavenderblush;
+        color: silver;
+        text-shadow: whitesmoke;
+        display: grid;
+        grid-template-areas:
+        "header"
+        "advert content"
+        "footer footer";
+    list-style: none;
+  
+    
+    
+      }
